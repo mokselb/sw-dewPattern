@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Макс\source\repos\Singleton\Singleton\Source.cpp(42,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Singleton.vcxproj -> C:\Users\Макс\source\repos\Singleton\Debug\Singleton.exe

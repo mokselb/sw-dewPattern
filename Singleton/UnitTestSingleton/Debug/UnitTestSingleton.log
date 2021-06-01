@@ -1,0 +1,9 @@
+﻿  UnitTestSingleton.cpp
+C:\Users\Макс\source\repos\Singleton\Singleton\Source.cpp(42,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(17,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(19,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(41,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(43,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(50,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Макс\source\repos\Singleton\UnitTestSingleton\UnitTestSingleton.cpp(52,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  UnitTestSingleton.vcxproj -> C:\Users\Макс\source\repos\Singleton\Debug\UnitTestSingleton.dll
